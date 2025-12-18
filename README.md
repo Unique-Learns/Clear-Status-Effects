@@ -1,3 +1,5 @@
 # Clear-Status-Effects
 
-Made by Uni (not tested, just working :<)
+Made by Uni [It's working ~ Trust me Bro :)]
+
+Default hotkey: C (Customizable)
